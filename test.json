@@ -1,0 +1,31 @@
+[
+  {
+    "Variable": {
+      "symbol": "x",
+      "power": 2,
+      "coefficient": 1
+    }
+  },
+  {
+    "Operator": {
+      "value": "+"
+    }
+  },
+  {
+    "Variable": {
+      "symbol": "x",
+      "power": 1,
+      "coefficient": 4
+    }
+  },
+  {
+    "Operator": {
+      "value": "-"
+    }
+  },
+  {
+    "Constant": {
+      "value": 3
+    }
+  }
+]
